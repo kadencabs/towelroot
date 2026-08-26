@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_05 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: qokus57lh1AOq5nCLC0K/YVBHjI=
+
+Name: lib/armeabi/libexploit.so
+SHA1-Digest: wBkX6jn7AapMa/9eGBwejWnciBU=
+
+Name: resources.arsc
+SHA1-Digest: C7aQTQ1YW+L47tkhfbQ7YycWx0U=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: /u2z6g22Wd+YY8gfvwCgEyW2DFw=
+
+Name: classes.dex
+SHA1-Digest: 8JFxCh3BO3m2c2Wxdn1v+AZ+LPU=
+
+Name: res/layout/mainlayout.xml
+SHA1-Digest: zOmtl/QoLhsZFpp8J14MsQeUvak=
+

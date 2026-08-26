@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: zCzzPfYKdtoZFSmmEu/M5YCltX4=
+SHA1-Digest-Manifest: RQA1qJylj57CTIQQ3MYbfds9wpE=
+Created-By: 1.8.0_05 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: QUr8k7/yJ4eIcwfd4CvJSSXoFkY=
+
+Name: lib/armeabi/libexploit.so
+SHA1-Digest: iuks4chSnxCUkgQGSjkqaS5iNcQ=
+
+Name: resources.arsc
+SHA1-Digest: DFO5DAiP6HGthWcXY+u+tG+YFX4=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: kRU1b3S0q+EOiCNA0Ksmzhd9K4Q=
+
+Name: classes.dex
+SHA1-Digest: aXEF7k5YDGsZaGLEMfmquRIneuQ=
+
+Name: res/layout/mainlayout.xml
+SHA1-Digest: 4ePq/rwflcx9TItrBa1AbHeXmFM=
+

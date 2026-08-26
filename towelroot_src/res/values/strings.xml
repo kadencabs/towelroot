@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">towelroot</string>
+    <string name="starting">"Click the button to install root
+If your phone reboots, towelroot failed"</string>
+</resources>

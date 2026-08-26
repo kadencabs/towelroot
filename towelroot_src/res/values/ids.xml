@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="text" />
+    <id name="button" />
+    <id name="textoverwrite" />
+    <id name="modstring" />
+</resources>
